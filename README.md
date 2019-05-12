@@ -6,6 +6,7 @@ This project handles check run and check suite webhook events and uses the Octok
 
 To learn how to set up a template GitHub App, follow the "[Setting up your development environment](https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/)" quickstart guide on developer.github.com.
 
+
 ## Install
 
 To run the code, make sure you have [Bundler](http://gembundler.com/) installed; then enter `bundle install` on the command line.
